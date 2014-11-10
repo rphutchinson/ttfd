@@ -1,0 +1,15 @@
+{
+  "name": "ttfd",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "rphutchinson <patrick.hutchinson@sparcedge.com",
+  "dependencies":{
+  	"lodash": "*",
+  	"execSync": "*",
+  	"moment": "*",
+  	"commander": "*",
+  	"prompt": "*",
+  	"csv-parse": "*"
+  },
+  "bin": {"ttfd": "script.js"}
+}
