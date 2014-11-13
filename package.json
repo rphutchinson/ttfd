@@ -2,7 +2,7 @@
   "name": "ttfd",
   "preferGlobal": true,
   "version": "0.0.1",
-  "author": "rphutchinson <patrick.hutchinson@sparcedge.com",
+  "author": "rphutchinson <rphutchinson@gmail.com",
   "dependencies":{
   	"lodash": "*",
   	"execSync": "*",
